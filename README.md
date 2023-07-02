@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📍 I'm a software developer currently residing in Copenhagen.
+📍 I'm a software developer currently residing in Zürich.
 
 💻 At the moment I'm busy developing internal CI systems at [Unity Technologies](https://unity.com/). 
 
